@@ -156,6 +156,8 @@ const SignupPage = () => {
                             borderRadius: "24px",
                             border: "none",
                             height: "48px",
+                            color:"#000000"
+
                         }}
                         placeholder="   Email Address"
                         />
@@ -175,6 +177,7 @@ const SignupPage = () => {
                             borderRadius: "24px",
                             border: "none",
                             height: "48px",
+                            color:"#000000"
                         }}
                         placeholder="   Password"
                         />
