@@ -151,6 +151,7 @@ const CreateAccount = () => {
                 borderRadius: "24px",
                 border: "none",
                 height: "48px",
+                color:"#000000"
               }}
               placeholder="Full Name"
             />
@@ -170,6 +171,8 @@ const CreateAccount = () => {
                 borderRadius: "24px",
                 border: "none",
                 height: "48px",
+                color:"#000000"
+                
               }}
               placeholder="Email Address"
             />
@@ -189,6 +192,7 @@ const CreateAccount = () => {
                 borderRadius: "24px",
                 border: "none",
                 height: "48px",
+                color:"#000000"
               }}
               placeholder="Create Password"
             />
@@ -208,6 +212,7 @@ const CreateAccount = () => {
                 borderRadius: "24px",
                 border: "none",
                 height: "48px",
+                color:"#000000"
               }}
               placeholder="Confirm Password"
             />
@@ -251,7 +256,7 @@ const CreateAccount = () => {
               Already have an account
             </span>
             <a
-              href="/CreateAccount"
+              href="/SigninPage"
               style={{
                 color: "#52C6F8",
                 textDecoration: "none",

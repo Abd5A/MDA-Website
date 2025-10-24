@@ -130,7 +130,7 @@ const StartPage = () => {
               cursor: "pointer",
               boxShadow: "0px 4px 4px 0px #00000040",
             }}
-            onClick={() => navigate("/SignupPage")}
+            onClick={() => navigate("/SigninPage")}
           >
             Log in
           </button>
