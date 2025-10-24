@@ -33,7 +33,7 @@ const SignupPage = () => {
                 <div
                 style={{
                     fontFamily: "Joan",
-                    backgroundImage: 'url("/public/assets/photos/Background1.jpg")',
+                    backgroundImage: 'url("/assets/photos/Background1.jpg")',
                     backgroundSize: "cover",
                     backgroundPosition: "center",
                     display: "flex",
